@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sesan/OneDrive/@C++/Functions/StrorageClass.cpp
+StrorageClass.h
+C:/Users/Sesan/OneDrive/@C++/Functions/StrorageClass.h
+iostream
+-
+functions.h
+C:/Users/Sesan/OneDrive/@C++/Functions/functions.h
+
+C:/Users/Sesan/OneDrive/@C++/Functions/StrorageClass.h
+
+C:/Users/Sesan/OneDrive/@C++/Functions/functions.h
+
+C:/Users/Sesan/OneDrive/@C++/Functions/main.cpp
+iostream
+-
+functions.h
+C:/Users/Sesan/OneDrive/@C++/Functions/functions.h
+StrorageClass.h
+C:/Users/Sesan/OneDrive/@C++/Functions/StrorageClass.h
+cmath
+-
+
