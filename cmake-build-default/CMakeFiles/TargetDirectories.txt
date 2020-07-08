@@ -1,0 +1,3 @@
+C:/Users/Sesan/OneDrive/@C++/Functions/cmake-build-default/CMakeFiles/Functions.dir
+C:/Users/Sesan/OneDrive/@C++/Functions/cmake-build-default/CMakeFiles/edit_cache.dir
+C:/Users/Sesan/OneDrive/@C++/Functions/cmake-build-default/CMakeFiles/rebuild_cache.dir
